@@ -1,28 +1,27 @@
-# Flutter Food Delivery Application Design
+# FoodieExpress - Flutter Food Delivery App
 
-## This application is not completed yet. Currently, I am working on it. 
-A small attempt to make an Food delivery app user interface in Flutter for Android and iOS.
+FoodieExpress is a Flutter-based mobile application that provides a seamless food ordering and delivery experience. Designed with real-life scenarios in mind, it offers an intuitive UI and interactive features suitable for modern food delivery services.
 
-## 🤓 Author(s)
-**Md Tarikul Islam** [![Twitter Follow](https://img.shields.io/twitter/follow/tarikul711.svg?style=social)](https://twitter.com/tarikul711)
+## 🍽️ Features
+- Browse food items by categories
+- Detailed product views with descriptions and pricing
+- Add to cart and checkout functionality
+- User authentication (login & registration screens)
+- Responsive design compatible with Android & iOS
 
-## Food Ordering & Delivery App UI in Flutter
-<img src="screens/full_ui.png"  />
+## 🔧 Tech Stack
+- Flutter (Dart)
+- Provider (State Management)
+- Material Design Components
+- Custom Animations
 
-## ScreenShots
-### Home Page
-<img src="screens/home_screen.jpg" height="500em" />
+## 💼 My Role
+I have customized and enhanced this application to demonstrate:
+- Integration of user authentication flows
+- State management using Provider
+- Implementation of responsive UI for multiple platforms
+- Optimization of user experience with smooth animations
 
-### Food Details Screen & Add To Cart Screen
-<img src="screens/detail_screen.jpg" height="500em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="screens/add_to_cart_screen.jpg" height="500em" />
-
-### Login & Registration Screen
-<img src="screens/login_screen.jpg" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="screens/signin_scren.jpg" height="500em" />
-
-## ✨ Requirements
-* Any Operating System (ie. MacOS X, Linux, Windows)
-* Any IDE with Flutter SDK installed (ie.  Android Studio, VSCode, IntelliJ, etc)
-* A little knowledge of Dart and Flutter
-* A brain to think 🤓🤓
-
-
+## 📬 Contact
+Looking to develop a custom food delivery app? Let's collaborate:
+👉 [https://www.fiverr.com/ugaffar](https://www.fiverr.com/ugaffar)
