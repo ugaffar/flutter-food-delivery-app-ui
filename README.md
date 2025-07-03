@@ -22,6 +22,4 @@ I have customized and enhanced this application to demonstrate:
 - Implementation of responsive UI for multiple platforms
 - Optimization of user experience with smooth animations
 
-## 📬 Contact
-Looking to develop a custom food delivery app? Let's collaborate:
-👉 [https://www.fiverr.com/ugaffar](https://www.fiverr.com/ugaffar)
+
